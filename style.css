@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-flow: row ;
+    background-color: blue;
+    justify-content: flex-start;
+  
+  
+
+}
+.item
+{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: 5px;
+
+}
+button{
+    font-size: 40px;
+    background-color: green;
+    color: pink;
+    border-radius: 10px;
+    padding: 4px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#span{
+    background-color: yellowgreen;
+}
